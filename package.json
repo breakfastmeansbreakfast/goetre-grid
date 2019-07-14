@@ -1,0 +1,19 @@
+{
+  "name": "goetre-grid",
+  "version": "1.0.0",
+  "description": "Modernisation of an old site I made using CSS floats and alike, to a CSS Grid-based layout.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breakfastmeansbreakfast/goetre-grid.git"
+  },
+  "author": "Tom Dunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breakfastmeansbreakfast/goetre-grid/issues"
+  },
+  "homepage": "https://github.com/breakfastmeansbreakfast/goetre-grid#readme"
+}
